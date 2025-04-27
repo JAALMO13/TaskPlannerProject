@@ -1,9 +1,3 @@
-{/*
-    list user tasks
-    allow tasks to be selectable
-    truncate all tasks with string fields longer than characters
-    create new task btn    
-*/}
 import "../css/Tasks.css"
 import { useEffect, useState } from 'react';
 import TaskCard from '../components/TaskCard'
