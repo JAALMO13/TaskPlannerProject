@@ -1,22 +1,3 @@
-"""
-muitliple users
-task tracker
-create a task
-- Title
-- Description
-- Due Date
-- Status
-delete a task
-update a task
-get all tasks
-
-! include unit tests
-store data in a database
-document api endpoints
-validation and error handling
-?login screen
-"""
-
 from fastapi import FastAPI, HTTPException, Form, Depends
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
