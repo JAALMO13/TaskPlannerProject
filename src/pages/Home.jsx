@@ -1,8 +1,3 @@
-{/* 
-    task planner header
-    login btn
-    register btn
-*/}
 import "../css/Home.css"
 import { useNavigate } from "react-router-dom"
 
