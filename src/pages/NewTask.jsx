@@ -1,11 +1,3 @@
-{/*
-    title input field
-    description input field
-    due date calendar field
-    priotity drop down
-    status default pending    
-*/}
-
 import "../css/NewTask.css"
 import { useState } from "react";
 import api from "../api.js";
