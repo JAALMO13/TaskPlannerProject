@@ -1,0 +1,9 @@
+fastapi[all]
+pydantic
+bcrypt
+uvicorn
+python-multipart
+pytest
+pytest-mock
+python-jose[cryptography]
+httpx
