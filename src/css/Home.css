@@ -1,0 +1,6 @@
+.home-container .button-container {
+    display: flex;
+    flex-direction: row;
+    gap: 45px;
+    max-width: 300px;
+  }

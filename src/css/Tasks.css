@@ -1,0 +1,8 @@
+.task-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 50px;
+    margin-bottom: 25px;
+}

@@ -1,0 +1,40 @@
+.input-container-update {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-size: 1.2em;
+    max-width: 300px;
+    margin-top: 30px;
+}
+.container-update{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    max-width: 300px;
+}
+
+.button-container-update {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 30px;
+    gap: 35px;
+    max-width: 300px;
+}
+.select-container-update{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: 1.2em;
+    margin-top: 10px;
+    gap: 10px;
+    max-width: 300px;
+}
+
+.select-container-update select{
+    width: 100%;
+    font-size: 1.05em;
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+}

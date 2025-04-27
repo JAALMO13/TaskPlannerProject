@@ -1,0 +1,13 @@
+.input-container {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    max-width: 300px;
+  }
+
+  .button-container {
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    max-width: 300px;
+  }
