@@ -1,12 +1,3 @@
-{/*
-    title input field
-    description input field
-    due date calendar field
-    priotity drop down
-    status default pending    
-
-    use api to get task then call api to update
-*/}
 import "../css/UpdateTask.css"
 import { useEffect, useState } from "react"
 import api from "../api.js"
