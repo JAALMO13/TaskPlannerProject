@@ -1,8 +1,3 @@
-{/*
-    view full description
-        
-*/}
-
 import "../css/TaskFull.css"
 import { useParams, useNavigate } from "react-router-dom";
 import { useEffect, useState } from "react";
