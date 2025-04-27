@@ -1,10 +1,3 @@
-{/*
-    create new user title
-    input text field for username
-    input text field for password
-    input text field for password again
-    check if both passwords are the same before adding user    
-*/}
 import "../css/Register.css"
 import { useState } from "react"
 import { useNavigate } from "react-router-dom";
